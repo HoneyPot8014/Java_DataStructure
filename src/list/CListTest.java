@@ -13,7 +13,6 @@ public class CListTest {
 		System.out.println("-------size-------");
 		System.out.println(cList.size);
 	}
-
 }
 
 class CList<T> {
